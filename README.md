@@ -1,9 +1,12 @@
 ### Hi, I am Julian 🤡
 
+...js
+
 const midudev = {
 pronouns: "he" | "him",
 code: [HTML, CSS],
 }
+...
 
 You can me in 🗺️: 
 
