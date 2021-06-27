@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I am Julian 🤡
+
+![P_20200811_182316](https://user-images.githubusercontent.com/76623831/123528928-4e87a500-d6b1-11eb-9c2e-bbabc7a6caf1.jpg)
+
 
 <!--
 **julca02/julca02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
