@@ -8,9 +8,6 @@ code: [HTML, CSS],
 }
 ...
 
-You can me in 🗺️: 
-
--[Twitter](https://twitter.com/julca02)
 
 [![julcao2 GitHub stats](https://github-readme-stats.vercel.app/api?username=julca02)](https://github.com/anuraghazra/github-readme-stats)
 
