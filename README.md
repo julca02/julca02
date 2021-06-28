@@ -1,13 +1,5 @@
 ### Hi, I am Julian 🤡
 
-...js
-
-const midudev = {
-pronouns: "he" | "him",
-code: [HTML, CSS],
-}
-...
-
 
 [![julcao2 GitHub stats](https://github-readme-stats.vercel.app/api?username=julca02)](https://github.com/anuraghazra/github-readme-stats)
 
